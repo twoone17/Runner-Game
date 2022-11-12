@@ -49,4 +49,6 @@ After each round, user can check out description of software curriculum. Each ro
 
 After round 4, user can see curriculums they have collected and missed and graudation determination message appears. If user has collected all the curriculums that meets graduation requirements, Graudation Success message appears. If not Graduation Failure message appears.
 
+Go through this link to see more details
+https://www.youtube.com/watch?v=yIj_Vlot1_g&ab_channel=%E1%84%8B%E1%84%89%E1%84%8B
 
